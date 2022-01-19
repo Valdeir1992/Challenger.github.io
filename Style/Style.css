@@ -44,17 +44,17 @@
     margin-right: 20px;
  }
  .name{
-     width: 300px;
-     height: 100px; 
+     width: 20%;
+     height: 15%; 
      background-color: gray; 
      position: absolute;
-     bottom: 0px;
-     left: 100px;  
-     display: flex;
+     bottom: 0%;
+     left: 10%;   
      justify-content:center;
      align-items: center;
+     display: flex;
  }
  .name p{ 
      text-align: center; 
-     color: white;  
+     color: white;   
  } 
